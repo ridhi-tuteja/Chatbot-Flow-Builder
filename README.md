@@ -18,7 +18,7 @@ This project demonstrates frontend architecture, state management, flow validati
 # 🚀 Hosted Application
 
 🔗 Live Demo:  
-[(https://chatbot-flow-builder-tan-one.vercel.app/)]
+https://chatbot-flow-builder-tan-one.vercel.app/
 
 ---
 
@@ -158,7 +158,7 @@ dist
 
 # 👩‍💻 Author
 
-Ridhi Teja
+Ridhi Tuteja
 
 ---
 
